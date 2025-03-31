@@ -9,4 +9,4 @@
 - [x] Componente <Route /> para hacerlo declarativo
 - [x] Lazy loading para las rutas
 - [x] Hacer i18n con las rutas
-- [] Testing
+- [x] Testing
