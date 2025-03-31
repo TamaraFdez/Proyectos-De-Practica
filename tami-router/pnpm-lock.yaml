@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@testing-library/dom':
+        specifier: ^10.4.0
+        version: 10.4.0
       path-to-regexp:
         specifier: 8.2.0
         version: 8.2.0
